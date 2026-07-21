@@ -7,3 +7,4 @@ beamformer_initial.m: the case of seven antennas with separation d=λ/2
 beamformer1.m: the case of seven antennas with separation d=λ/4  
 beamformer2.m: the case of nine antennas with separation d=λ/2  
 beamformer3.m: the case of five antennas with separation d=λ/2  
+phasors_opticalphasedarray.m: the optical phased array analysis of the second part
